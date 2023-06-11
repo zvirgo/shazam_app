@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project Shazam
 
 Develop an elegant React.js Music Application. 
 
